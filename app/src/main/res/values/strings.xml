@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Review_Feb6_Recording</string>
+    <string name="button">Do Something</string>
+    <string name="button1">Do Something Else</string>
+    <string name="button2">Do Something Different</string>
+    <string name="textview">TextView</string>
+    <string name="buttonClicked">button is clicked</string>
+    <string name="name">Name</string>
+    <string name="clicked">i was clicked</string>
+</resources>
